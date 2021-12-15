@@ -1,5 +1,12 @@
-To play the game run the file SlugRun.exe in the SlugRun(Win) folder. 
+To play the game run the file SlugRun.exe in the SlugRun(Win) folder or run the SlugRun(Mac) app. 
+
+Both versions can be found in the .zip file.
 
 Controls: WASD for movement
 	  Space for Jump
 	  Esc to access pause menu 
+
+Contributors:
+Adrian Vasquez - Lead Programmer
+Tristan Clark - Art
+Rohan Jhangiani - Level Implementation, Programmer, UI Implementation.
